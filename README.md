@@ -1,2 +1,0 @@
-# Medium
-Blogging Website
